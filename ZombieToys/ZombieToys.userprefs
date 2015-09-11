@@ -1,8 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player\PlayerMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player\PlayerMovement2.cs">
     <Files>
-      <File FileName="Assets\Scripts\Player\PlayerMovement.cs" Line="15" Column="32" />
+      <File FileName="Assets\Scripts\Player\PlayerMovement2.cs" Line="8" Column="16" />
+      <File FileName="Assets\Scripts\Player\PlayerMovement.cs" Line="33" Column="30" />
+      <File FileName="Assets\_CompletedAssets\Scripts\Player\PlayerMovement.cs" Line="84" Column="47" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
